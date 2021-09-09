@@ -1,7 +1,6 @@
 - ┗|｀O′|┛   Hi, I’m Italo
-- 👀 I’m interested in python
-- 📘 I’m currently learning python
-- 💞️ I’m looking to collaborate on the community
+- I’m interested in python
+- I’m currently learning python
 <!--- - 📫 How to reach me ...
 
 

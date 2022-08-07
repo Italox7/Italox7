@@ -1,4 +1,4 @@
-- ┗|｀O′|┛   Hi, I’m Italo
+- Hi, I’m Italo
 - I’m interested in python
 - I’m currently learning python
 <!--- - 📫 How to reach me ...

@@ -16,8 +16,8 @@
 
 ## 📌 Projetos com React
 
-- 🔗 [Fancy Counter](https://contador-chique.vercel.app/) - Contador numérico simples
 - 🔗 [Word Analytics](https://wordanalytics-two.vercel.app/) - Contador de palavras e letras
+- 🔗 [Fancy Counter](https://contador-chique.vercel.app/) - Contador numérico simples
 
 ---
 

@@ -9,8 +9,8 @@
 ## 🧠 Tecnologias
 
 - Frontend: React, JavaScript, HTML, CSS
-- Backend: Node.js, APIs REST
-- Outros: Python, Java, Git, SpringBoot
+- Backend: Node.js, APIs REST, Python, Java, SpringBoot
+- Outros: Git, PostgreSQL
 
 ---
 
@@ -24,4 +24,4 @@
 ## 📫 Contato
 
 - LinkedIn: [https://www.linkedin.com/in/italo-alves-/](https://www.linkedin.com/in/italo-alves-/)
-- Email: (aalves.italo0@gmail.com)
+- Email: aalves.italo0@gmail.com

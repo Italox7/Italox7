@@ -23,5 +23,5 @@
 
 ## 📫 Contato
 
-- LinkedIn: ([coloque aqui](https://www.linkedin.com/in/italo-alves-/))
-- Email: (opcional)
+- LinkedIn: ([https://www.linkedin.com/in/italo-alves-/](https://www.linkedin.com/in/italo-alves-/))
+- Email: (aalves.italo0@gmail.com)

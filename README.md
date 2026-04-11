@@ -16,12 +16,12 @@
 
 ## 📌 Projetos com React
 
-- 🔗 ([Fancy Counter](https://contador-chique.vercel.app/)) - Contador simples
-- 🔗 Nome do projeto - descrição curta
+- 🔗 [Fancy Counter](https://contador-chique.vercel.app/) - Contador numérico simples
+- 🔗 [Word Analytics](https://wordanalytics-two.vercel.app/) - Contador de palavras e letras
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: ([https://www.linkedin.com/in/italo-alves-/](https://www.linkedin.com/in/italo-alves-/))
+- LinkedIn: [https://www.linkedin.com/in/italo-alves-/](https://www.linkedin.com/in/italo-alves-/)
 - Email: (aalves.italo0@gmail.com)

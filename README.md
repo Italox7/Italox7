@@ -14,9 +14,9 @@
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Projetos com React
 
-- 🔗 Nome do projeto - descrição curta
+- 🔗 ([Fancy Counter](https://contador-chique.vercel.app/)) - Contador simples
 - 🔗 Nome do projeto - descrição curta
 
 ---

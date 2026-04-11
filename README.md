@@ -21,13 +21,7 @@
 
 ---
 
-## 📈 Estatísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=italox7&show_icons=true&theme=dark)
-
----
-
 ## 📫 Contato
 
-- LinkedIn: (coloque aqui)
+- LinkedIn: ([coloque aqui](https://www.linkedin.com/in/italo-alves-/))
 - Email: (opcional)

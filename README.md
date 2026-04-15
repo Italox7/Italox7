@@ -16,6 +16,7 @@
 
 ## 📌 Projetos com React
 
+- 🔗 [Trekbag](https://trekbag-app-cyan.vercel.app/) - Aplicativo de lista de itens de viagem
 - 🔗 [Word Analytics](https://wordanalytics-two.vercel.app/) - Contador de palavras e letras
 - 🔗 [Fancy Counter](https://contador-chique.vercel.app/) - Contador numérico simples
 

@@ -2,13 +2,12 @@
 
 💻 Desenvolvedor focado em Frontend com React  
 🚀 Atualmente estudando e desenvolvendo projetos com React e APIs REST  
-📚 Conhecimentos em Node.js, Python, Java, Angular e SpringBoot  
 
 ---
 
 ## 🧠 Tecnologias
 
-- Frontend: React, JavaScript, HTML, CSS
+- Frontend: React, Angular, JavaScript, HTML, CSS
 - Backend: Node.js, APIs REST, Python, Java, SpringBoot
 - Outros: Git, PostgreSQL
 

@@ -15,8 +15,9 @@
 
 ## 📌 Projetos com React
 
+- 🔗 [Corp Comment](https://corp-comment-now.vercel.app/) - Aplicativo para comentários sobre empresas
 - 🔗 [Trekbag](https://trekbag-app-cyan.vercel.app/) - Aplicativo de lista de itens de viagem
-- 🔗 [Word Analytics](https://wordanalytics-two.vercel.app/) - Contador de palavras e letras
+- 🔗 [Word Analytics](https://wordanalytics-now.vercel.app/) - Contador de palavras e letras
 - 🔗 [Fancy Counter](https://contador-chique.vercel.app/) - Contador numérico simples
 
 ---
